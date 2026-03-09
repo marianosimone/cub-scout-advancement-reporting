@@ -16,10 +16,16 @@ This script should be run in a folder and creates several different documents wh
 2. Look for all instances of "logo.png" in the advancement reports script (there's about 3 places): you may have to adjust the radio on height/width if your pack logo is not perfectly square
 3. Replace the PACK_NUM variable with your pack's number
 
+**Adventure URLs and images**
+- `requirements.json` lists each adventure with a `url` (Scouting America adventure page). The report shows the adventure loop/pin image next to each adventure title when the image exists in the `img/` directory.
+- One-off setup: download images into `img/` with: `uv run python download_adventure_images.py --browser`. This uses Playwright (headless Chromium) to pass Cloudflare’s check, then fetches each image. Requires `uv add playwright` and `uv run playwright install chromium` once. Without `--browser`, the script tries direct HTTP (often 403 from scouting.org).
+
 **In order to run the script,**
 1. You will need to generate a report from Internet Advancement (see below)
 2. Put the csv report into the same directory as the script. Make sure it's titled "reportbuilder.csv"
-3. run the script from the command line. (_python AdvancementReports.py_)
+3. Run the script from the command line:
+   - **With [uv](https://docs.astral.sh/uv/)** (recommended): `uv run python AdvancementReports.py`
+   - Or with a regular Python env: `python AdvancementReports.py`
 
 **In order to generate the report from Internet Advancement**
 In Internet Advancement:

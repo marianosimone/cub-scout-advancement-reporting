@@ -1,0 +1,39 @@
+line-length = 120
+
+[lint]
+select = [
+    "A", # https://docs.astral.sh/ruff/rules/#flake8-builtins-a
+    "ARG", # https://docs.astral.sh/ruff/rules/#flake8-unused-arguments-arg
+    "B", # https://docs.astral.sh/ruff/rules/#flake8-bugbear-b
+    "C4", # https://docs.astral.sh/ruff/rules/#flake8-comprehensions-c4
+    "COM", # https://docs.astral.sh/ruff/rules/#flake8-commas-com
+    "E", # https://docs.astral.sh/ruff/rules/#pycodestyle-e-w
+    "ERA", # https://docs.astral.sh/ruff/rules/#eradicate-era
+    "F", # https://docs.astral.sh/ruff/rules/#pyflakes-f
+    "I", # https://docs.astral.sh/ruff/rules/#isort-i
+    "ICN", # https://docs.astral.sh/ruff/rules/#flake8-import-conventions-icn
+    "INT", # https://docs.astral.sh/ruff/rules/#flake8-gettext-int
+    "ISC", # https://docs.astral.sh/ruff/rules/#flake8-implicit-str-concat-isc
+    "N", # https://docs.astral.sh/ruff/rules/#pep8-naming-n
+    "PERF", # https://docs.astral.sh/ruff/rules/#perflint-perf
+    "PIE", # https://docs.astral.sh/ruff/rules/#flake8-pie-pie
+    "PLC", # https://docs.astral.sh/ruff/rules/#convention-plc
+    "PLE", # https://docs.astral.sh/ruff/rules/#error-ple
+    "PLW", # https://docs.astral.sh/ruff/rules/#error-plw
+    "Q", # https://docs.astral.sh/ruff/rules/#flake8-quotes-q
+    "RET", # https://docs.astral.sh/ruff/rules/#flake8-return-ret
+    "RUF", # https://docs.astral.sh/ruff/rules/#ruff-specific-rules-ruf
+    "SIM", # https://docs.astral.sh/ruff/rules/#flake8-simplify-sim
+    "TID", # https://docs.astral.sh/ruff/rules/#flake8-tidy-imports-tid
+    "UP", # https://docs.astral.sh/ruff/rules/#pyupgrade-up
+    "W", # https://docs.astral.sh/ruff/rules/#pycodestyle-e-w
+]
+
+ignore = [
+    # BEGIN formatter-conflict
+    # These rules conflict with the formatter
+    "COM812",
+    # END formatter-conflict
+
+    
+]

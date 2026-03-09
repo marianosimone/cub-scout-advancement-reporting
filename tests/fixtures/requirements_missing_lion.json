@@ -1,0 +1,11 @@
+{
+	"Tiger": {
+		"Bobcat (Tiger)": {
+			"url": "https://example.com/bobcat-tiger",
+			"type": "required",
+			"requirements": {
+				"1": "Get to know the members of your den."
+			}
+		}
+	}
+}

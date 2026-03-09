@@ -1,0 +1,7 @@
+{
+  "pythonVersion": "3.12",
+  "typeCheckingMode": "strict",
+  "reportIgnoreCommentWithoutRule": "error",
+  "reportUnnecessaryTypeIgnoreComment": "error",
+  "reportUnreachable": "error",
+}

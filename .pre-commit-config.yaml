@@ -1,0 +1,15 @@
+# See https://pre-commit.com for more information
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.15.5
+    hooks:
+      - id: ruff-format
+        name: "🎨 Format code"
+      - id: ruff-check
+        name: "🚨 Lint code"
+        args: [--fix]
+  - repo: https://github.com/DetachHead/basedpyright-pre-commit-mirror
+    rev: 1.38.2
+    hooks:
+      - id: basedpyright
+        name: "🔍 Type check"
