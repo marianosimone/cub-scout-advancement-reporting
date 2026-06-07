@@ -6,6 +6,7 @@ Validates that CSV and JSON align; builds in-memory Den/Scout/Adventure model.
 import csv
 import json
 import re
+from collections import defaultdict
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -221,12 +222,12 @@ def _build_dens_from_header(rows: list[list]) -> list[Den]:
     scout_names = [str(c).strip() for c in rows[0]]
     next_ranks = [str(c).strip() for c in rows[1]]
     # Column 0 is empty / "Next Rank"; scouts start at index 1
-    den_lists: dict[str, list[Scout]] = {}
+    den_lists: dict[str, list[Scout]] = defaultdict(list)
     for i in range(1, min(len(scout_names), len(next_ranks))):
         name = scout_names[i]
-        rank = next_ranks[i]
-        if not name or not rank:
+        if not name:
             continue
+        rank = next_ranks[i] or "Arrow of Light" # the reports show `""` for AOLs
         if rank not in den_lists:
             den_lists[rank] = []
         den_lists[rank].append(Scout(name=name, next_rank=rank))
