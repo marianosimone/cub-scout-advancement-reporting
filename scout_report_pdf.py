@@ -30,7 +30,7 @@ RANK_IMAGE_PREFIX = {
     "Wolf": "wolves",
     "Bear": "bears",
     "Webelos": "webelos",
-    "Arrow of Light": "arrow_of_light",
+    "Arrow of Light": "aols",
 }
 
 
@@ -53,7 +53,7 @@ def _adventure_image_path(rank: str, adventure_name: str) -> Path | None:
     slug = _adventure_slug_for_image(adventure_name)
     if not slug:
         return None
-    path = Path(ADVENTURE_IMAGES_DIR) / f"{den}-{ADVENTURE_IMAGE_YEAR}-{slug}.jpg"
+    path = Path(ADVENTURE_IMAGES_DIR) / den / f"{ADVENTURE_IMAGE_YEAR}-{slug}.png"
     if path.is_file():
         return path
     logger.warning(
