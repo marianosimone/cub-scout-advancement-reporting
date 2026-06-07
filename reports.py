@@ -9,7 +9,7 @@ from parser import parse_advancement_report, validate_csv_against_requirements
 from scout_report_pdf import build_scout_report_pdf, safe_filename
 
 OUTPUT_DIR = Path("output")
-LOGOS_DIR = Path("logos")
+LOGOS_DIR = Path("img/logos")
 
 
 def main() -> None:
