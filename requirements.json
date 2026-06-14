@@ -54,9 +54,9 @@
 			"type": "required",
 			"requirements": {
 				"1": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
-				"2": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials.  While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.",
+				"2": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Lion adult partner that are natural and things that are manmade.",
 				"3": "Discover what S.A.W. means.",
-				"4": "Identify common animals that are found where you live.  Separate those animals into domesticated and wild."
+				"4": "Identify common animals that are found where you live. Separate those animals into domesticated and wild."
 			}
 		},
 		"Build It Up, Knock It Down": {
@@ -93,7 +93,7 @@
 			"requirements": {
 				"1": "Discover technology around your home, meeting place, or neighborhood.",
 				"2": "Discover ways that digital technology can make life easier.",
-				"3": "Identify an item of digital technology you use at home.  Demonstrate to your Lion adult partner how you use it safely."
+				"3": "Identify an item of digital technology you use at home. Demonstrate to your Lion adult partner how you use it safely."
 			}
 		},
 		"Gizmos And Gadgets": {
@@ -137,7 +137,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/on-a-roll",
 			"type": "elective",
 			"requirements": {
-				"1": "With  your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.",
+				"1": "With your den or Lion adult partner, learn about the safety gear you should use while riding a bicycle.",
 				"2": "With your den or Lion adult partner, learn the safety rules to follow when riding a bicycle.",
 				"3": "With your Lion adult partner or family, ride a bicycle wearing appropriate safety gear and follow safety rules."
 			}
@@ -198,8 +198,8 @@
 			"requirements": {
 				"1": "Get to know the members of your den.",
 				"2": "Recite the Scout Oath with your den, including your Tiger adult partner.",
-				"3": "Have your Tiger adult partner or den leader read the Scout Law to you.  Demonstrate your understanding of being trustworthy, helpful, or friendly.",
-				"4": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake.  Show how each are used.",
+				"3": "Have your Tiger adult partner or den leader read the Scout Law to you. Demonstrate your understanding of being trustworthy, helpful, or friendly.",
+				"4": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each are used.",
 				"5": "Share with your Tiger adult partner, at a den meeting or at home, a time when you have demonstrated the Cub Scout motto 'Do Your Best.'",
 				"6": "At home, with your parent or legal guardian, do the activities in the booklet 'How to Protect Your Children from Child Abuse: A Parent's Guide.'"
 			}
@@ -228,7 +228,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/tiger-circles",
 			"type": "required",
 			"requirements": {
-				"1": "With your parent or legal guardian talk about your family's faith traditions.   Identify three holidays or celebrations that are part of your family's faith traditions. Draw a picture of your favorite family's faith tradition holiday or celebration.",
+				"1": "With your parent or legal guardian talk about your family's faith traditions.  Identify three holidays or celebrations that are part of your family's faith traditions. Draw a picture of your favorite family's faith tradition holiday or celebration.",
 				"2": "With your family, attend a religious service OR other gathering that shows how your family expresses Family & Reverence.",
 				"3": "Carry out an act of kindness."
 			}
@@ -237,7 +237,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/team-tiger",
 			"type": "required",
 			"requirements": {
-				"1": "Play a game with your den, or family members, that has a set of rules.  Discuss why rules are important to the game you are playing.",
+				"1": "Play a game with your den, or family members, that has a set of rules. Discuss why rules are important to the game you are playing.",
 				"2": "With your Tiger Adult Partner, choose a job that will help your team. Follow through by doing that job at least once.",
 				"3": "Play a game that requires at least 2 teams with your den, or two other family members. Afterwards discuss what it means to be part of a team and what makes a good team member.",
 				"4": "Participate in a service project."
@@ -247,11 +247,11 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/tigers-in-the-wild",
 			"type": "required",
 			"requirements": {
-				"1": "Identify the Cub Scout Six Essentials.  Show what you do with each item.",
+				"1": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
 				"2": "With your den leader or Tiger adult partner, learn about the Outdoor Code.",
-				"3": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials.  While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.",
-				"4": "Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild.  Draw a picture of your favorite animal.",
-				"5": "Look for a tree where you live.  Describe how this tree is helpful."
+				"3": "With your den, pack, or family, take a walk outside spending for at least 20 minutes exploring the outdoors with your Cub Scout Six Essentials. While outside, identify things that you see with your Tiger adult partner that are natural and things that are manmade.",
+				"4": "Identify common animals that are found where you live. Learn which of those animals is domesticated and which animal is wild. Draw a picture of your favorite animal.",
+				"5": "Look for a tree where you live. Describe how this tree is helpful."
 			}
 		}
 	},
@@ -273,7 +273,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/running-with-the-pack",
 			"type": "required",
 			"requirements": {
-				"1": "Sample 3 different foods that are naturally 3 different colors.  The food must be a protein, vegetable, fruit, dairy, or a grain.",
+				"1": "Sample 3 different foods that are naturally 3 different colors. The food must be a protein, vegetable, fruit, dairy, or a grain.",
 				"2": "Demonstrate the proper way to brush your teeth.",
 				"3": "Be active for 30 minutes with your den or at least 1 other person that includes both stretching and moving.",
 				"4": "Be active for 10 minutes doing personal exercises.",
@@ -295,7 +295,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/footsteps",
 			"type": "required",
 			"requirements": {
-				"1": "With your parent or legal guardian talk about your family's faith traditions.   Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft or work of art of your favorite family's faith tradition holiday or celebration.",
+				"1": "With your parent or legal guardian talk about your family's faith traditions.  Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft or work of art of your favorite family's faith tradition holiday or celebration.",
 				"2": "With your family, attend a religious service OR other gathering that shows how your family expresses reverence.",
 				"3": "Carry out an act of kindness.",
 				"4": "Listen to or read Aesop's fable 'The Boy Who Cried Wolf.' With your den or family discuss why being truthful is important."
@@ -310,16 +310,16 @@
 				"3": "Build a model of your home.",
 				"4": "Using the same materials from requirement 3, create a model of a building in your community.",
 				"5": "Using the models built in requirements 3 and 4, create a neighborhood.",
-				"6": "Participate in a service project.  Explain how your volunteering is helpful to your neighborhood."
+				"6": "Participate in a service project. Explain how your volunteering is helpful to your neighborhood."
 			}
 		},
 		"Paws on the Path": {
 			"url": "https://www.scouting.org/cub-scout-adventures/paws-on-the-path",
 			"type": "required",
 			"requirements": {
-				"1": "Identify the Cub Scout Six Essentials.  Show what you do with each item.",
+				"1": "Identify the Cub Scout Six Essentials. Show what you do with each item.",
 				"2": "Learn about the buddy system and how it works in the outdoors. Pick a buddy for your walk.",
-				"3": "Identify appropriate clothes and shoes for your walk outside.  Do your best to wear them on your walk.",
+				"3": "Identify appropriate clothes and shoes for your walk outside. Do your best to wear them on your walk.",
 				"4": "Learn about the Outdoor Code and Leave No Trace Principle for Kids.",
 				"5": "With your den, pack, or family, take a walk outside for at least 30 minutes to explore nature in your surroundings. Describe four different animals, domestic or wild, that you could see on your walk."
 			}
@@ -335,7 +335,7 @@
 				"3": "Learn about the Scout Oath. Identify the three points of the Scout Oath.",
 				"4": "With your den create a den Code of Conduct.",
 				"5": "Learn about the denner position and responsibilities.",
-				"6": "Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake.  Show how each is used.",
+				"6": "Demonstrate the Cub Scout sign, Cub Scout salute, and Cub Scout handshake. Show how each is used.",
 				"7": "Share with your den, or family, a time when you demonstrated the Cub Scout motto 'Do Your Best.' Explain why it is important to do your best.",
 				"8": "At home, with your parent or legal guardian, do the activities in the booklet 'How to Protect Your Children from Child Abuse: A Parent's Guide.'"
 			}
@@ -358,17 +358,17 @@
 				"1": "With permission from your parent or legal guardian, watch the Protect Yourself Rules video for the Bear rank.",
 				"2": "Complete the Personal Space Bubble worksheet that is part of the Protect Yourself Rules resources.",
 				"3": "With your parent or legal guardian, set up a family policy for digital devices.",
-				"4": "Identify common personal safety gear for your head, eyes, mouth, hands, and feet.  List how each of these items protect you.  Demonstrate the proper use of personal safety gear for an activity."
+				"4": "Identify common personal safety gear for your head, eyes, mouth, hands, and feet. List how each of these items protect you. Demonstrate the proper use of personal safety gear for an activity."
 			}
 		},
 		"Fellowship": {
 			"url": "https://www.scouting.org/cub-scout-adventures/fellowship",
 			"type": "required",
 			"requirements": {
-				"1": "With your parent or legal guardian talk about your family's faith traditions. Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft,  work of art, or a food item that is part  of your favorite family's faith tradition, holiday or celebration.",
+				"1": "With your parent or legal guardian talk about your family's faith traditions. Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft, work of art, or a food item that is part of your favorite family's faith tradition, holiday or celebration.",
 				"2": "With your family, attend a religious service OR other gathering that shows how your family expresses reverence.",
 				"3": "Carry out an act of kindness.",
-				"4": "With your parent or legal guardian identify a religion or faith that is different from your own.  Determine two things that it has in common with your family's beliefs."
+				"4": "With your parent or legal guardian identify a religion or faith that is different from your own. Determine two things that it has in common with your family's beliefs."
 			}
 		},
 		"Paws for Action": {
@@ -377,7 +377,7 @@
 			"requirements": {
 				"1": "Familiarize yourself with the flag of the United States of America including the history, demonstrating how to raise and lower the flag, how to properly fold and display, and the United States etiquette.",
 				"2": "Identify 3 symbols that represent the United States. Pick your favorite and make a model, work of art, or other craft that depicts the symbol.",
-				"3": "Learn about the mission of any non-profit.  Find out how they fund their activities and how volunteers are used to help.",
+				"3": "Learn about the mission of any non-profit. Find out how they fund their activities and how volunteers are used to help.",
 				"4": "Participate in a service project."
 			}
 		},
@@ -414,7 +414,7 @@
 			"requirements": {
 				"1": "Make trail mix using trail mix math.",
 				"2": "Identify an animal that has a pattern to its physical appearance. Investigate how the animal uses its pattern.",
-				"3": "Find  examples of bilateral symmetry in nature.",
+				"3": "Find examples of bilateral symmetry in nature.",
 				"4": "Find examples of radial symmetry in nature."
 			}
 		},
@@ -460,7 +460,7 @@
 			"type": "elective",
 			"requirements": {
 				"1": "Identify an animal that would be good pet for your family.",
-				"2": "Choose two animals that are allowed as pets in your community.  Compare and contrast why these pets may be a good choice for you.",
+				"2": "Choose two animals that are allowed as pets in your community. Compare and contrast why these pets may be a good choice for you.",
 				"3": "Based on your choice in requirement 1, investigate how to properly care for your chosen animal.",
 				"4": "Discover three ways a pet can help people."
 			}
@@ -516,7 +516,7 @@
 				"1": "Review the buddy system and how it works in the outdoors.",
 				"2": "Pack your Cub Scout Six Essentials for the campout.",
 				"3": "In addition to your Cub Scout Six Essentials, show the personal items you need for your campout.",
-				"4": "Help set up a tent.  Determine a good spot for the tent.  Explain why you picked the spot.",
+				"4": "Help set up a tent. Determine a good spot for the tent. Explain why you picked the spot.",
 				"5": "Attend a council or district Cub Scout overnight camp or attend a campout with your pack."
 			}
 		},
@@ -610,11 +610,11 @@
 			"type": "required",
 			"requirements": {
 				"1": "Get to know members of your den.",
-				"2": "Recite the Scout Oath and the Scout Law with your den and den leader.  Describe the three points of the Scout Oath",
+				"2": "Recite the Scout Oath and the Scout Law with your den and den leader. Describe the three points of the Scout Oath",
 				"3": "Learn about the Scout Law.",
 				"4": "With your den create a den Code of Conduct.",
 				"5": "Learn about the denner position and responsibilities.",
-				"6": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake.  Show how each is used.",
+				"6": "Demonstrate the Cub Scout sign, Cub Scout salute and Cub Scout handshake. Show how each is used.",
 				"7": "At home, with your parent or legal guardian do the activities in the booklet 'How to Protect Your Children from Child Abuse: A Parent's Guide.'"
 			}
 		},
@@ -634,7 +634,7 @@
 			"type": "required",
 			"requirements": {
 				"1": "With permission from your parent or legal guardian, watch the Protect Yourself Rules video for the Webelos rank.",
-				"2": "Identify items in your house that are hazardous and make sure they are stored properly.  Identify on the package where it describes what to do if someone is accidentally exposed to them.",
+				"2": "Identify items in your house that are hazardous and make sure they are stored properly. Identify on the package where it describes what to do if someone is accidentally exposed to them.",
 				"3": "Identify ways you and your family keep your home or your meeting space safe.",
 				"4": "Complete the Be Prepared for Natural Events worksheet. Complete a worksheet for at least two natural events most likely to happen near where you live."
 			}
@@ -643,10 +643,10 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/my-family",
 			"type": "required",
 			"requirements": {
-				"1": "With your parent or legal guardian, talk about your family's faith traditions.   Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft, work of art, or a food item that is part of your family's faith traditions.",
+				"1": "With your parent or legal guardian, talk about your family's faith traditions.  Identify three holidays or celebrations that are part of your family's faith traditions. Make a craft, work of art, or a food item that is part of your family's faith traditions.",
 				"2": "Carry out an act of kindness.",
-				"3": "With your parent or legal guardian identify a religion or faith that is different from your own.  Identify two things that it has in common with your family's beliefs.",
-				"4": "Discuss with our parent or legal guardian what it means to be reverent.  Tell how you practice being reverent in your daily life."
+				"3": "With your parent or legal guardian identify a religion or faith that is different from your own. Identify two things that it has in common with your family's beliefs.",
+				"4": "Discuss with our parent or legal guardian what it means to be reverent. Tell how you practice being reverent in your daily life."
 			}
 		},
 		"My Community": {
@@ -654,8 +654,8 @@
 			"type": "required",
 			"requirements": {
 				"1": "Learn about majority and plurality types of voting.",
-				"2": "Speak with someone who is elected to their position.  Discover the type of voting that was used for to elect them and why.",
-				"3": "Choose a federal law and create a timeline of the history of the law.  Include the involvement of the 3 branches of government.",
+				"2": "Speak with someone who is elected to their position. Discover the type of voting that was used for to elect them and why.",
+				"3": "Choose a federal law and create a timeline of the history of the law. Include the involvement of the 3 branches of government.",
 				"4": "Participate in a service project."
 			}
 		},
@@ -681,7 +681,7 @@
 				"3": "Learn how to prevent and treat hypothermia.",
 				"4": "Attempt to tread water.",
 				"5": "Attempt Scouting America swimmer test.",
-				"6": "Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group.  The qualified adult supervision should conduct at least three buddy checks per half hour swimming."
+				"6": "Have 30 minutes, or more, of free swim time where you practice the Buddy System and stay within your ability group. The qualified adult supervision should conduct at least three buddy checks per half hour swimming."
 			}
 		},
 		"Art Explosion": {
@@ -709,21 +709,21 @@
 			"type": "elective",
 			"requirements": {
 				"1": "Learn about some basic tools and the proper use of each tool. Learn about and understand the need for safety when you work with tools.",
-				"2": "Demonstrate  how to check for plumb, level, and square when building.",
-				"3": "With the guidance of your Webelos den leader, parent, or legal guardian, select a carpentry project that requires it to be either plumb, level, and/or square.  Create a list of materials and tools you will need to complete the project.",
-				"4": "Build  your carpentry project."
+				"2": "Demonstrate how to check for plumb, level, and square when building.",
+				"3": "With the guidance of your Webelos den leader, parent, or legal guardian, select a carpentry project that requires it to be either plumb, level, and/or square. Create a list of materials and tools you will need to complete the project.",
+				"4": "Build your carpentry project."
 			}
 		},
 		"Catch The Big One": {
 			"url": "https://www.scouting.org/cub-scout-adventures/catch-the-big-one",
 			"type": "elective",
 			"requirements": {
-				"1": "Make a plan to go fishing.  Determine where you will go and what type of fish you plan to catch.  All of the following requirements are to be completed based on your choice.",
+				"1": "Make a plan to go fishing. Determine where you will go and what type of fish you plan to catch. All of the following requirements are to be completed based on your choice.",
 				"2": "Use Scouting America SAFE Checklist to plan what you need for your fishing experience.",
 				"3": "Describe the environment where the fish might be found.",
 				"4": "Make a list of the equipment and materials you will need to fish.",
 				"5": "Determine the best type of knot to tie your hook to your line and tie it.",
-				"6": "Choose the appropriate type of fishing rod and tackle you will be using.  Have an adult review your gear.",
+				"6": "Choose the appropriate type of fishing rod and tackle you will be using. Have an adult review your gear.",
 				"7": "Using what you have learned about fish and fishing equipment, spend at least one hour fishing following local guidelines and regulations."
 			}
 		},
@@ -753,10 +753,10 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/earth-rocks",
 			"type": "elective",
 			"requirements": {
-				"1": "Examine  the three types of rocks, sedimentary, igneous, and metamorphic.",
+				"1": "Examine the three types of rocks, sedimentary, igneous, and metamorphic.",
 				"2": "Find a rock, safely break it apart and examine it.",
 				"3": "Make a mineral test kit and test minerals according to the Mohs scale of mineral hardness. Using the rock cycle chart or one like it, discuss how hardness determines which materials can be used in homes, in landscapes, or for recreation.",
-				"4": "Grow  a crystal."
+				"4": "Grow a crystal."
 			}
 		},
 		"Let's Camp (Webelos)": {
@@ -766,10 +766,10 @@
 				"1": "With your den, pack, or family, plan and participate in a campout.",
 				"2": "Upon arrival at the campground, determine where to set up a tent.",
 				"3": "Set up your tent without help from an adult.",
-				"4": "Identify a potential weather hazard that could occur in your area.  Determine the action you will take if you experience the weather hazard during the campout.",
-				"5": "Show how to tie a bowline.  Explain when this knot should be used and why.",
-				"6": "Know the fire safety rules.  Using those rules, locate a safe area to build a campfire.",
-				"7": "Using tinder, kindling, and fuel wood, properly build a teepee fire lay.  If circumstances permit, and there is no local restriction on fires, show how to safely light the fire while under adult supervision. After allowing the fire to burn safely, extinguish the flames with minimal impact to the fire site.",
+				"4": "Identify a potential weather hazard that could occur in your area. Determine the action you will take if you experience the weather hazard during the campout.",
+				"5": "Show how to tie a bowline. Explain when this knot should be used and why.",
+				"6": "Know the fire safety rules. Using those rules, locate a safe area to build a campfire.",
+				"7": "Using tinder, kindling, and fuel wood, properly build a teepee fire lay. If circumstances permit, and there is no local restriction on fires, show how to safely light the fire while under adult supervision. After allowing the fire to burn safely, extinguish the flames with minimal impact to the fire site.",
 				"8": "Recite the Outdoor Code and Leave No Trace Principles for Kids from Memory.",
 				"9": "After your campout, share the things you did to follow the Outdoor Code and Leave No Trace Principles for Kids with your den or family."
 			}
@@ -778,7 +778,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/math-on-the-trail",
 			"type": "elective",
 			"requirements": {
-				"1": "EDetermine your walking pace by walking ¼ mile.  Make a projection on how long it would take you to walk 2 miles.",
+				"1": "EDetermine your walking pace by walking ¼ mile. Make a projection on how long it would take you to walk 2 miles.",
 				"2": "Walk 2 miles and record the time it took you to complete the two miles.",
 				"3": "Make a projection on how long it would take you to hike a 20-mile trail over two days. List all the factors to consider for your projection."
 			}
@@ -802,11 +802,11 @@
 				"1": "Before attempting requirements 5, 6, 7, 8 and 9 for this Adventure, you must pass Scouting America swimmer test.",
 				"2": "Pick a paddle craft for which to complete all requirements: canoe, kayak, or stand-up paddleboard.",
 				"3": "Review Safety Afloat.",
-				"4": "Demonstrate how to choose  and properly wear a life jacket  that is the correct size.",
+				"4": "Demonstrate how to choose and properly wear a life jacket that is the correct size.",
 				"5": "Jump feet first into water over your head while wearing a life jacket. Then swim 25 feet wearing the life jacket.",
 				"6": "Demonstrate how to enter and exit a canoe, kayak, or stand-up paddleboard safely.",
 				"7": "Discuss what to do if your canoe or kayak tips over or you fall off your stand-up paddleboard.",
-				"8": "Learn how to pick a paddle that is the right size for you.  Explore how the paddle craft responds to moving the paddle.",
+				"8": "Learn how to pick a paddle that is the right size for you. Explore how the paddle craft responds to moving the paddle.",
 				"9": "Have 30 minutes, or more, of canoe, kayak, or stand-up paddleboard paddle time."
 			}
 		},
@@ -814,7 +814,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/pedal-away",
 			"type": "elective",
 			"requirements": {
-				"1": "Decide  on gear and supplies you should bring for a long bike ride.",
+				"1": "Decide on gear and supplies you should bring for a long bike ride.",
 				"2": "Discover how multi-gear bicycles work and how they benefit a rider.",
 				"3": "Practice how to lubricate a chain.",
 				"4": "Pick a bicycle lock that you will use. Demonstrate how it locks and unlocks, how it secures your bicycle, and how you carry it while you are riding your bicycle.",
@@ -826,7 +826,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/race-time-webelos",
 			"type": "elective",
 			"requirements": {
-				"1": "With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™  boat.",
+				"1": "With an adult, build either a Pinewood Derby® and car or a Raingutter Regatta™ boat.",
 				"2": "Learn the rules of the race for the vehicle chosen in requirement 1.",
 				"3": "Explore the properties of friction and how it impacts your chosen vehicle.",
 				"4": "Before the race, discuss with your den how you will demonstrate good sportsmanship during the race.",
@@ -894,7 +894,7 @@
 				"2": "Get to know members of your patrol.",
 				"3": "Recite the Scout Oath and Scout Law with your patrol.",
 				"4": "With your patrol create a Code of Conduct.",
-				"5": "Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America.  Show how each are used.",
+				"5": "Demonstrate the Scout sign, Scout salute and Scout handshake used by Scouting America. Show how each are used.",
 				"6": "Learn the Scouting America slogan and motto.",
 				"7": "With your patrol, or with your parent/legal guardian, visit a Scouting America troop.",
 				"8": "At home, with your parent or legal guardian, do the activities in the booklet 'How to Protect Your Children from Child Abuse: A Parent's Guide.'"
@@ -904,8 +904,8 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/personal-fitness",
 			"type": "required",
 			"requirements": {
-				"1": "Plan a balanced meal that you would eat when camping.  Prepare that meal using the gear you would use on a campout.",
-				"2": "Examine what it is to be  physically fit and how you incorporate this in your life.  Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.",
+				"1": "Plan a balanced meal that you would eat when camping. Prepare that meal using the gear you would use on a campout.",
+				"2": "Examine what it is to be physically fit and how you incorporate this in your life. Track the number of times you are active for 30 minutes or longer over a 14-day period. Share with your patrol or family what you enjoyed and if you feel you are living up to the Scout Oath of being physically strong.",
 				"3": "Be active for 30 minutes with your patrol, a younger den, or at least one other person in a way that includes both stretching and moving.",
 				"4": "Review your Scouting America Annual Health and Medical Record with your parent or legal guardian. Discuss your ability to participate in Arrow of Light patrol and pack activities."
 			}
@@ -936,7 +936,7 @@
 			"url": "https://www.scouting.org/cub-scout-adventures/citizenship",
 			"type": "required",
 			"requirements": {
-				"1": "Identify a community service project that your patrol or pack could accomplish.  Use Scouting America's SAFE Checklist and develop a plan to conduct the service project safely.",
+				"1": "Identify a community service project that your patrol or pack could accomplish. Use Scouting America's SAFE Checklist and develop a plan to conduct the service project safely.",
 				"2": "Participate in a service project for a minimum of two hours or multiple service projects for a total of two hours."
 			}
 		},
@@ -949,9 +949,9 @@
 				"3": "Review the four points of Scouting America's SAFE Checklist and how you will apply them on the campout.",
 				"4": "Locate the campsite where you will be camping on a map.",
 				"5": "With your patrol or a Scouting America troop, participate in a campout.",
-				"6": "Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit.  Help the patrol set up the patrol gear before setting up your own tent.",
-				"7": "Explain how to keep food safe and the kitchen area sanitary at the campsite.  Demonstrate your knowledge during the campout.",
-				"8": "After your campout, discuss with your patrol what went well and what you would do differently next time.   Include how you followed the Outdoor Code and Leave No Trace Principles for Kids."
+				"6": "Upon arrival at the campout determine where to set up your campsite: kitchen, eating area, tents, and firepit. Help the patrol set up the patrol gear before setting up your own tent.",
+				"7": "Explain how to keep food safe and the kitchen area sanitary at the campsite. Demonstrate your knowledge during the campout.",
+				"8": "After your campout, discuss with your patrol what went well and what you would do differently next time.  Include how you followed the Outdoor Code and Leave No Trace Principles for Kids."
 			}
 		}
 	}
