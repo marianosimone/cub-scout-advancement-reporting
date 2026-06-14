@@ -284,7 +284,7 @@ def build_scout_report_pdf(
         elements.append(Spacer(1, 0.2 * inch))
         cell_width = 1.6 * inch
         cols = 4
-        rows: list[list[Flowable]] = []
+        elective_rows: list[list[Flowable]] = []
         for i in range(0, len(available_elective), cols):
             row_cells: list[Flowable] = []
             for j in range(cols):
@@ -309,9 +309,9 @@ def build_scout_report_pdf(
                     row_cells.append(inner)
                 else:
                     row_cells.append(Spacer(cell_width, 0.1 * inch))
-            rows.append(row_cells)
-        if rows:
-            tbl = Table(rows, colWidths=[cell_width] * cols)
+            elective_rows.append(row_cells)
+        if elective_rows:
+            tbl = Table(elective_rows, colWidths=[cell_width] * cols)
             tbl.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"), ("ALIGN", (0, 0), (-1, -1), "CENTER")]))
             elements.append(tbl)
         elements.append(Spacer(1, 0.3 * inch))
@@ -322,7 +322,7 @@ def build_scout_report_pdf(
         elements.append(Spacer(1, 0.2 * inch))
         cell_width = 1.6 * inch
         cols = 4
-        rows: list[list[Flowable]] = []
+        finished_rows: list[list[Flowable]] = []
         for i in range(0, len(scout.finished_adventures), cols):
             row_cells = []
             for j in range(cols):
@@ -347,9 +347,9 @@ def build_scout_report_pdf(
                     row_cells.append(inner)
                 else:
                     row_cells.append(Spacer(cell_width, 0.1 * inch))
-            rows.append(row_cells)
-        if rows:
-            tbl = Table(rows, colWidths=[cell_width] * cols)
+            finished_rows.append(row_cells)
+        if finished_rows:
+            tbl = Table(finished_rows, colWidths=[cell_width] * cols)
             tbl.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "TOP"), ("ALIGN", (0, 0), (-1, -1), "CENTER")]))
             elements.append(tbl)
 

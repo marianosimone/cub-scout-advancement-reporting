@@ -40,7 +40,7 @@ def main():
     with open(JSON_FILE) as f:
         data = json.load(f)
 
-    missing = []
+    missing: list[tuple[str, str, str]] = []
     for rank, adventures in data.items():
         for adventure_name, adventure_data in adventures.items():
             if not isinstance(adventure_data, dict):

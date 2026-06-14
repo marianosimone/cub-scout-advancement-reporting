@@ -166,8 +166,6 @@ def load_adventures_by_rank(json_path: str | Path) -> dict[str, list[Adventure]]
     data = load_requirements_json(json_path)
     out: dict[str, list[Adventure]] = {}
     for rank, adventures_dict in data.items():
-        if not isinstance(adventures_dict, dict):
-            continue
         out[rank] = [
             _adventure_from_entry(adv_name, adv_entry)
             for adv_name, adv_entry in adventures_dict.items()
