@@ -7,6 +7,7 @@ Sections: Pending required adventures; Available elective adventures; Awarded ad
 import io
 import re
 from pathlib import Path
+from xml.sax.saxutils import escape
 
 import qrcode
 from loguru import logger
@@ -85,6 +86,24 @@ def _qr_code_image(url: str | None, size_pt: float) -> Image | Spacer:
         return Image(buf, width=size_pt, height=size_pt)
     except Exception:
         return Spacer(size_pt, size_pt)
+
+
+def _qr_code_with_link(url: str | None, qr_size_pt: float, link_style: ParagraphStyle) -> Flowable:
+    """QR code with a clickable 'View' link below it."""
+    qr_flow = _qr_code_image(url, qr_size_pt)
+    link_para = Paragraph(f'<a href="{escape(url)}" color="blue">View</a>', link_style) if url else Spacer(1, 0)
+    inner = Table([[qr_flow], [link_para]], colWidths=[qr_size_pt])
+    inner.setStyle(
+        TableStyle(
+            [
+                ("ALIGN", (0, 0), (-1, -1), "CENTER"),
+                ("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
+                ("TOPPADDING", (0, 0), (-1, -1), 0),
+                ("BOTTOMPADDING", (0, 0), (-1, -1), 0),
+            ]
+        )
+    )
+    return inner
 
 
 def _logo_image(path: Path, size_pt: float = 1.0 * inch) -> Image | Spacer:
@@ -198,6 +217,7 @@ def build_scout_report_pdf(
     img_size = 0.5 * inch
     qr_size = 0.75 * inch
     style_center = ParagraphStyle("NormalCenter", parent=styles["Normal"], alignment=TA_CENTER)
+    style_link = ParagraphStyle("LinkCenter", parent=styles["Normal"], alignment=TA_CENTER, fontSize=7)
 
     # --- 1. Pending required adventures: image, name, QR, list of requirements not completed ---
     pending_required = [a for a in scout.pending_adventures if a.type == "required"]
@@ -211,7 +231,7 @@ def build_scout_report_pdf(
                 img_flow = Image(str(img_path), width=w_pt, height=h_pt)
             else:
                 img_flow = Spacer(img_size, img_size)
-            qr_flow = _qr_code_image(adv.url, qr_size)
+            qr_flow = _qr_code_with_link(adv.url, qr_size, style_link)
             name_para = Paragraph(f"<b>{_adventure_display_name(adv.name)}</b>", styles["Heading3"])
             header_cells = [img_flow, name_para, qr_flow]
             t = Table([header_cells], colWidths=[0.6 * inch, 5.15 * inch, 0.75 * inch])
@@ -240,7 +260,7 @@ def build_scout_report_pdf(
                 img_flow = Image(str(img_path), width=w_pt, height=h_pt)
             else:
                 img_flow = Spacer(img_size, img_size)
-            qr_flow = _qr_code_image(adv.url, qr_size)
+            qr_flow = _qr_code_with_link(adv.url, qr_size, style_link)
             name_para = Paragraph(f"<b>{_adventure_display_name(adv.name)}</b>", styles["Heading3"])
             header_cells = [img_flow, name_para, qr_flow]
             t = Table([header_cells], colWidths=[0.6 * inch, 5.15 * inch, 0.75 * inch])
